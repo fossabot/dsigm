@@ -1,4 +1,6 @@
 # DSIGM Clustering Algorithm
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fparadoxysm%2Fdsigm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fparadoxysm%2Fdsigm?ref=badge_shield)
+
 **Density-sensitive Self-stabilization of Independent Gaussian Mixtures (DSIGM) Clustering**
 
 ## Overview
@@ -45,3 +47,7 @@ Documentation for dsigm can be found [here](https://github.com/paradoxysm/dsigm/
 ### Issues and Questions
 
 Issues and Questions should be posed to the issue tracker [here](https://github.com/paradoxysm/dsigm/issues).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fparadoxysm%2Fdsigm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fparadoxysm%2Fdsigm?ref=badge_large)
